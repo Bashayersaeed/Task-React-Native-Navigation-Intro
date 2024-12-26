@@ -10,7 +10,7 @@ import { useNavigation } from '@react-navigation/native'
     <View>
       <Text>Item</Text>
       <Text>Name: {name}</Text>
-      <text>price: {price}</text>
+      <Text>price: {price}</Text>
     </View>
   )
 }
